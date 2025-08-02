@@ -40,7 +40,7 @@ const InnovationSection = () => {
                             href="https://totalscript.app/"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="inline-block rounded-lg bg-gradient-to-b from-[#0a4afc] to-[#153eb5] px-10 py-4 text-base font-bold text-white shadow-lg transition-transform duration-300 ease-in-out hover:scale-105 active:scale-100 focus:outline-none focus:ring-4 focus:ring-blue-500/50"
+                            className="inline-block rounded-lg bg-gradient-to-b from-[#0a4afc] to-[#153eb5] px-10 py-4 text-xl font-bold text-white shadow-lg transition-transform duration-300 ease-in-out hover:scale-105 active:scale-100 focus:outline-none focus:ring-4 focus:ring-blue-500/50"
                         >
                             Generar Guiones con IA
                         </a>

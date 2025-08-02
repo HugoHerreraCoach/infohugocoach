@@ -73,14 +73,14 @@ const ToolboxCard: React.FC<Resource> = ({ title, description, buttonText, href,
         </div>
         
         <h3 className="mb-2 text-2xl font-bold text-white text-balance">{title}</h3>
-        <p className="mb-6 flex-grow text-slate-400 text-lg lg:text-xl text-balance">{description}</p>
+        <p className="mb-6 flex-grow text-slate-400 text-xl text-balance">{description}</p>
         
         {/* --- INICIO DE LA OPTIMIZACIÓN DE ESTILO DEL BOTÓN --- */}
         <a
           href={href}
           target="_blank"
           rel="noopener noreferrer"
-          className="mt-auto inline-flex items-center justify-center gap-2 self-start rounded-lg bg-slate-800 px-5 py-3 text-base font-semibold text-white shadow-md transition-all duration-300 hover:bg-[#0a4afc] hover:scale-105 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-400"
+          className="mt-auto inline-flex items-center justify-center gap-2 self-start rounded-lg bg-slate-800 px-5 py-3 text-xl font-semibold text-white shadow-md transition-all duration-300 hover:bg-[#0a4afc] hover:scale-105 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-400"
         >
           {buttonText}
           <ArrowRight className="h-4 w-4 transition-transform duration-300 group-hover:translate-x-1" />

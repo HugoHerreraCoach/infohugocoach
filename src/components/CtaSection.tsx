@@ -16,8 +16,8 @@ const CtaSection = () => {
                     
                     {/* NUEVO: Icono de anclaje para dar un punto de entrada visual. */}
                     <div className="flex justify-center mb-6">
-                        <div className="flex h-16 w-16 lg:h-28 lg:w-28 items-center justify-center rounded-full bg-gradient-to-b from-[#0a4afc] to-[#153eb5] shadow-lg">
-                            <Rocket className="h-8 w-8 lg:h-16 lg:w-16 text-white" />
+                        <div className="flex h-20 w-20 lg:h-28 lg:w-28 items-center justify-center rounded-full bg-gradient-to-b from-[#0a4afc] to-[#153eb5] shadow-lg">
+                            <Rocket className="h-12 w-12 lg:h-16 lg:w-16 text-white" />
                         </div>
                     </div>
 

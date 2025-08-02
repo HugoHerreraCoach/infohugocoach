@@ -12,8 +12,8 @@ const LiderExpertoOffer: React.FC = () => {
                     
                     {/* --- TEXTO DE LA OFERTA (Sin cambios en copy) --- */}
                     <div className="text-center md:text-left">
-                        <h2 className="text-2xl font-bold tracking-tight text-balance sm:text-4xl">
-                           <span className="text-sm font-bold uppercase tracking-wider text-blue-500">PARA LÍDERES:</span><br/>
+                        <h2 className="text-3xl font-bold tracking-tight text-balance lg:text-4xl">
+                           <span className="text-base font-bold uppercase tracking-wider text-blue-500">PARA LÍDERES:</span><br/>
                            Deja de ser el mejor vendedor de tu empresa.
                         </h2>
                     </div>
@@ -41,7 +41,7 @@ const LiderExpertoOffer: React.FC = () => {
                             href="https://liderexperto.hugoherreracoach.com/"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="inline-flex items-center justify-center gap-2 rounded-lg bg-gradient-to-b from-[#0a4afc] to-[#153eb5] px-6 py-3.5 text-lg font-semibold text-white shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
+                            className="inline-flex items-center text-xl justify-center gap-2 rounded-lg bg-gradient-to-b from-[#0a4afc] to-[#153eb5] px-6 py-3.5 font-semibold text-white shadow-lg transition-transform duration-300 ease-in-out hover:scale-105"
                         >
                             Quiero el Sistema
                         </a>
