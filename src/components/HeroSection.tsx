@@ -39,7 +39,7 @@ const SocialHeader: React.FC = () => {
 
                 {/* --- PROPUESTA DE VALOR UNIFICADA --- */}
                 <div className="mt-12 text-center">
-                    <h1 className="text-3xl font-bold tracking-tight text-balance sm:text-4xl">
+                    <h1 className="text-4xl font-bold tracking-tight text-balance lg:text-5xl">
                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-blue-500">
                             Toma el control
                         </span> de tus resultados.
