@@ -40,22 +40,12 @@ const FeaturedProductSection = (): React.ReactElement => {
                     <div className="flex flex-col justify-center items-center gap-y-4 md:items-start md:col-start-2 md:row-start-3">
                         {/* CAMBIO: Aplicado el estilo de Botón Primario */}
                         <a
-                            href="https://pay.hotmart.com/F92712322V?bid=1754158953807&offDiscount=EMPRENDEDOR"
+                            href="https://cerradorexperto.hugoherreracoach.com/"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="inline-block rounded-lg bg-gradient-to-b from-[#0a4afc] to-[#153eb5] px-8 py-4 text-lg font-bold text-white shadow-lg transition-transform duration-300 ease-in-out hover:scale-105 active:scale-100 focus:outline-none focus:ring-4 focus:ring-blue-500/50"
                         >
-                            Obtener el Sistema Digital ($7 USD)
-                        </a>
-                        
-                        {/* CAMBIO: Aplicado un estilo de Botón Secundario coherente */}
-                        <a
-                            href="https://wa.link/qxa48o"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="inline-block rounded-lg bg-slate-800 px-8 py-3 text-lg font-semibold text-slate-200 shadow-md transition-all duration-300 hover:bg-slate-700 hover:scale-105 active:scale-100 focus:outline-none focus:ring-4 focus:ring-slate-600/50"
-                        >
-                            Recibir el Libro en Físico ($25 USD)
+                            Obtener el Sistema ($7 USD)
                         </a>
                     </div>
                 </div>
